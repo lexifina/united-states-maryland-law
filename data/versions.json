@@ -1,0 +1,61 @@
+{
+ "country": "US-MD",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Md. Const.",
+   "title": "Constitution of Maryland",
+   "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 300,
+     "source_url": "https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes",
+     "sha256": "6014affd98e183cd0e5889022973b0dbf70bf48184b4107e2fb83a5b1bd84cca"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-law",
+   "short": "Md. Code, Criminal Law",
+   "title": "Maryland Code, Criminal Law Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcr/gcr.pdf",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 870,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcr/gcr.pdf",
+     "sha256": "8adcc8875af9434b98096eea21b8778f3d40928641de1b63bd41edd274a7fc71"
+    }
+   ]
+  },
+  {
+   "slug": "real-property",
+   "short": "Md. Code, Real Property",
+   "title": "Maryland Code, Real Property Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/grp.pdf",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 802,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/grp.pdf",
+     "sha256": "9bc9c69b8d835c4a82d0b541b90c7e989b8edb70d712a43f7ee1e7e5f3178a04"
+    }
+   ]
+  },
+  {
+   "slug": "corporations-and-associations",
+   "short": "Md. Code, Corporations and Associations",
+   "title": "Maryland Code, Corporations and Associations Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gca/gca.pdf",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 998,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gca/gca.pdf",
+     "sha256": "c483c0ee3534a7a7fd1be598160f6154f37c76597723e103e62689419eabcaa9"
+    }
+   ]
+  }
+ ]
+}
