@@ -1,8 +1,12 @@
 {
   "path": "united-states/maryland",
   "code": "US-MD",
-  "name": "United States (Maryland)",
+  "name": "Maryland",
   "level": "state",
+  "parent": "united-states",
   "repo": "https://github.com/lexifina/united-states-maryland-law",
-  "build": "built"
+  "build": "built",
+  "history": "current-only",
+  "scope": "Constitution and all 36 consolidated Code articles; uncodified session laws excluded",
+  "checked_on": "2026-11-03"
 }

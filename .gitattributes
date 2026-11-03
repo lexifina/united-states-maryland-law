@@ -1,0 +1,4 @@
+
+data/rework/*.json.gz binary
+tools/maryland_rework.py text eol=lf
+data/rework/manifest.json text eol=lf

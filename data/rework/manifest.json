@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "base_head": "4d120b87d18f816d07ed6dd38340b1b13e951406",
+  "expected_correction_tip": "578d7ec965d58cf39582772319678c867ed1260c",
+  "reviewed_part_sha256": "f95c68034199cb2d61185076f6c2bf4dece552780197c4ae21e62ed31ed19830",
+  "files": {
+    "data/rework/current-corpus.json.gz": {
+      "sha256": "27d3a6e9b706475a0e27e977ed38d822d7872daf1ad824a9e597ad47b2561428",
+      "git_blob": "1e57ec44ba831c0dadbfdfec444f5a7bf255c656",
+      "bytes": 12808483,
+      "uncompressed_sha256": "7cc170ade92b8ea9169861c96ca318c840c48ef9db12fb29a5c2855fbbe638ee"
+    },
+    "data/rework/corrections.json.gz": {
+      "sha256": "ffcc8d5c4e4c4db1e7a0b72fdf1b949d62c757acdda4ae5c01c71733704a4b1f",
+      "git_blob": "4b4205a169bbda27cf2adf513e473ca0a191a4c8",
+      "bytes": 257897,
+      "uncompressed_sha256": "393eac0466274a8c394df77ab08d5a9b36c373ded8d87393bb312e04b8ad0c1d"
+    },
+    "data/rework/future-versions.json.gz": {
+      "sha256": "fdd741d0c27ab70b60df1713ae0251247271f74a829351c8e1871184c0e9cabf",
+      "git_blob": "bb7b8e5cb896e167c45cec12fa9bfac407a12bf5",
+      "bytes": 200511,
+      "uncompressed_sha256": "bddc4fff225639dbb3dc258b3886ce0e644b5abb95c84a5bc204cb8cd8851624"
+    },
+    "data/rework/source-manifest.json.gz": {
+      "sha256": "9d42a05435504141142a78869acff9e63ff88f1078afd935a0a09968826e001e",
+      "git_blob": "bff1aea19b9941244439ee74228d064143c0330e",
+      "bytes": 7138,
+      "uncompressed_sha256": "28a38f3c5bde4a9ab926a503a57d73651c792b83c75640dec6c4c9053a8b2445"
+    },
+    "data/rework/documentation.json.gz": {
+      "sha256": "8126e98ac6ba87ae3047534680a70242af9c738b1fcef4e30926c8b742c4a5d1",
+      "git_blob": "7787aca0940f81784e24decf5481b9d57381f6a3",
+      "bytes": 859573,
+      "uncompressed_sha256": "5d308757567a93e7be3328af5b7eaf5ae882aea457406a33d8efd75d71fe6a4d"
+    },
+    "tools/maryland_rework.py": {
+      "sha256": "b7ed661e62e50f76bd8da7f0492c33a9487f109bbda462d762e7a56307dc384d",
+      "git_blob": "fc970aae8feb60b00a96c8895a31975352f589b1",
+      "bytes": 11933
+    }
+  },
+  "toolchain": {
+    "python": "3.12.10",
+    "git": "git version 2.46.0.windows.1",
+    "pymupdf": "2.0"
+  },
+  "source_checked_on": "2026-11-03",
+  "current_sections": 39769,
+  "future_sections": 39556,
+  "corrections": 37,
+  "future_versions": 105,
+  "historical_shared_tool_pins": {
+    "tools/append.py": "38dc3085ab5ce9c08ca8613131e0c4d37e25d500",
+    "tools/build.py": "cf2e26e90870c7c7138aefd712de42275b7ad4d3",
+    "tools/check_repo.py": "5d719354ea4c62d240c93d2cae446307d81d9e81",
+    "tools/on.py": "aff48cf1b68d50c7ba8f399ca32261871c301824"
+  }
+}
