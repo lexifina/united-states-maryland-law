@@ -1,5 +1,38 @@
 key,label,kind,title,enacted,published,in_force_days,commits,url
 md-constitution-1867,"Constitution of Maryland (1867, as amended)",law,"Constitution of Maryland (1867, as amended)",1867-09-18,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-agriculture,"Maryland Code, Agriculture Article",law,"Maryland Code, Agriculture Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-alcoholic-beverages-and-cannabis,"Maryland Code, Alcoholic Beverages and Cannabis Article",law,"Maryland Code, Alcoholic Beverages and Cannabis Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-business-occupations-and-professions,"Maryland Code, Business Occupations and Professions Article",law,"Maryland Code, Business Occupations and Professions Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-business-regulation,"Maryland Code, Business Regulation Article",law,"Maryland Code, Business Regulation Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-commercial-law,"Maryland Code, Commercial Law Article",law,"Maryland Code, Commercial Law Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
 md-code-corporations-and-associations,"Maryland Code, Corporations and Associations Article",law,"Maryland Code, Corporations and Associations Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-correctional-services,"Maryland Code, Correctional Services Article",law,"Maryland Code, Correctional Services Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-courts-and-judicial-proceedings,"Maryland Code, Courts and Judicial Proceedings Article",law,"Maryland Code, Courts and Judicial Proceedings Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
 md-code-criminal-law,"Maryland Code, Criminal Law Article",law,"Maryland Code, Criminal Law Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-criminal-procedure,"Maryland Code, Criminal Procedure Article",law,"Maryland Code, Criminal Procedure Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-economic-development,"Maryland Code, Economic Development Article",law,"Maryland Code, Economic Development Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-education,"Maryland Code, Education Article",law,"Maryland Code, Education Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-election-law,"Maryland Code, Election Law Article",law,"Maryland Code, Election Law Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-environment,"Maryland Code, Environment Article",law,"Maryland Code, Environment Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-estates-and-trusts,"Maryland Code, Estates and Trusts Article",law,"Maryland Code, Estates and Trusts Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-family-law,"Maryland Code, Family Law Article",law,"Maryland Code, Family Law Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-financial-institutions,"Maryland Code, Financial Institutions Article",law,"Maryland Code, Financial Institutions Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-general-provisions,"Maryland Code, General Provisions Article",law,"Maryland Code, General Provisions Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-health-general,"Maryland Code, Health - General Article",law,"Maryland Code, Health - General Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-health-occupations,"Maryland Code, Health Occupations Article",law,"Maryland Code, Health Occupations Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-housing-and-community-development,"Maryland Code, Housing and Community Development Article",law,"Maryland Code, Housing and Community Development Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-human-services,"Maryland Code, Human Services Article",law,"Maryland Code, Human Services Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-insurance,"Maryland Code, Insurance Article",law,"Maryland Code, Insurance Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-labor-and-employment,"Maryland Code, Labor and Employment Article",law,"Maryland Code, Labor and Employment Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-land-use,"Maryland Code, Land Use Article",law,"Maryland Code, Land Use Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-local-government,"Maryland Code, Local Government Article",law,"Maryland Code, Local Government Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-natural-resources,"Maryland Code, Natural Resources Article",law,"Maryland Code, Natural Resources Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-public-safety,"Maryland Code, Public Safety Article",law,"Maryland Code, Public Safety Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-public-utilities,"Maryland Code, Public Utilities Article",law,"Maryland Code, Public Utilities Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
 md-code-real-property,"Maryland Code, Real Property Article",law,"Maryland Code, Real Property Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-state-finance-and-procurement,"Maryland Code, State Finance and Procurement Article",law,"Maryland Code, State Finance and Procurement Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-state-government,"Maryland Code, State Government Article",law,"Maryland Code, State Government Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-state-personnel-and-pensions,"Maryland Code, State Personnel and Pensions Article",law,"Maryland Code, State Personnel and Pensions Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-tax-general,"Maryland Code, Tax - General Article",law,"Maryland Code, Tax - General Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-tax-property,"Maryland Code, Tax - Property Article",law,"Maryland Code, Tax - Property Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes
+md-code-transportation,"Maryland Code, Transportation Article",law,"Maryland Code, Transportation Article",,,,0,https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes

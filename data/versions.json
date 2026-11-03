@@ -56,6 +56,468 @@
      "sha256": "c483c0ee3534a7a7fd1be598160f6154f37c76597723e103e62689419eabcaa9"
     }
    ]
+  },
+  {
+   "slug": "agriculture",
+   "short": "Md. Code, Agriculture",
+   "title": "Maryland Code, Agriculture Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gag/gag.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 747,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gag/gag.pdf",
+     "sha256": "14e6f6514441af2dad9d78b25b01b3eefe5aab0e4f100f8bc59c9aac4e967d74"
+    }
+   ]
+  },
+  {
+   "slug": "alcoholic-beverages-and-cannabis",
+   "short": "Md. Code, Alcoholic Beverages and Cannabis",
+   "title": "Maryland Code, Alcoholic Beverages and Cannabis Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gab/gab.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3159,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gab/gab.pdf",
+     "sha256": "049de6558b5f5624d6756de940955df5b27e39cba3c95e476edde3aa9122a2b3"
+    }
+   ]
+  },
+  {
+   "slug": "business-occupations-and-professions",
+   "short": "Md. Code, Business Occupations and Professions",
+   "title": "Maryland Code, Business Occupations and Professions Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gbo/gbo.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1149,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gbo/gbo.pdf",
+     "sha256": "faef36282b4990fe826f4976567f58d57190a17f7882a6c168c65a84b35225c2"
+    }
+   ]
+  },
+  {
+   "slug": "business-regulation",
+   "short": "Md. Code, Business Regulation",
+   "title": "Maryland Code, Business Regulation Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gbr/gbr.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1026,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gbr/gbr.pdf",
+     "sha256": "caaf0b62c7b4f8cceb24c18ae2ce6234b15e84f81cde7309bd97a11c25008224"
+    }
+   ]
+  },
+  {
+   "slug": "commercial-law",
+   "short": "Md. Code, Commercial Law",
+   "title": "Maryland Code, Commercial Law Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcl/gcl.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1751,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcl/gcl.pdf",
+     "sha256": "4147c7d4e7cd972a412b9768c1645cf47fd5ed632bd68ea9d55f8f1d607682f9"
+    }
+   ]
+  },
+  {
+   "slug": "correctional-services",
+   "short": "Md. Code, Correctional Services",
+   "title": "Maryland Code, Correctional Services Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcs/gcs.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 550,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcs/gcs.pdf",
+     "sha256": "a7ee5fcfe79372fe1b3503ed38aa14aa499e82597b7a26077c7e009a0b4b3420"
+    }
+   ]
+  },
+  {
+   "slug": "courts-and-judicial-proceedings",
+   "short": "Md. Code, Courts and Judicial Proceedings",
+   "title": "Maryland Code, Courts and Judicial Proceedings Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcj/gcj.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1032,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcj/gcj.pdf",
+     "sha256": "30a336d69e8bff69a90ef954aaab08b6ec5dc363492a72507758fba36250464b"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure",
+   "short": "Md. Code, Criminal Procedure",
+   "title": "Maryland Code, Criminal Procedure Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcp/gcp.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 641,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gcp/gcp.pdf",
+     "sha256": "ac53051e4a535d65872efb140090077edca567e35693534df78f870ac13ec2ba"
+    }
+   ]
+  },
+  {
+   "slug": "economic-development",
+   "short": "Md. Code, Economic Development",
+   "title": "Maryland Code, Economic Development Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gec/gec.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1213,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gec/gec.pdf",
+     "sha256": "6e896699f1747d6cd6661f21e7d3536e9a315cdaf40f62b4cf53dd312d28f4e3"
+    }
+   ]
+  },
+  {
+   "slug": "education",
+   "short": "Md. Code, Education",
+   "title": "Maryland Code, Education Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ged/ged.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1754,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ged/ged.pdf",
+     "sha256": "1b813dc6f1e61545f922ed0b73122fb6afb3f51dc1a8ab650d6384737c558333"
+    }
+   ]
+  },
+  {
+   "slug": "election-law",
+   "short": "Md. Code, Election Law",
+   "title": "Maryland Code, Election Law Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gel/gel.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 465,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gel/gel.pdf",
+     "sha256": "34e32d995681ba03d7a3cd94740cf9822478ead97b21d0ad2d3d8699eec397d9"
+    }
+   ]
+  },
+  {
+   "slug": "environment",
+   "short": "Md. Code, Environment",
+   "title": "Maryland Code, Environment Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gen/gen.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1550,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gen/gen.pdf",
+     "sha256": "ab52765dab307bbd93708f032a8e0df805c066664329b72887606c5f8e9e21e6"
+    }
+   ]
+  },
+  {
+   "slug": "estates-and-trusts",
+   "short": "Md. Code, Estates and Trusts",
+   "title": "Maryland Code, Estates and Trusts Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/get/get.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 590,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/get/get.pdf",
+     "sha256": "0a3f7f2ea2314b6ea43fd87007384badcfc972efdcef3a20a43b28cf792861f7"
+    }
+   ]
+  },
+  {
+   "slug": "family-law",
+   "short": "Md. Code, Family Law",
+   "title": "Maryland Code, Family Law Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gfl/gfl.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 681,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gfl/gfl.pdf",
+     "sha256": "3b9781c3aa0d09a9ebf5b9f1441f1debe17012864ce9c4409e417a690eb584c7"
+    }
+   ]
+  },
+  {
+   "slug": "financial-institutions",
+   "short": "Md. Code, Financial Institutions",
+   "title": "Maryland Code, Financial Institutions Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gfi/gfi.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 953,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gfi/gfi.pdf",
+     "sha256": "998010028c63b031d92aa082ebc04ec24c8dcffd4613c2d0bc014bd23316df49"
+    }
+   ]
+  },
+  {
+   "slug": "general-provisions",
+   "short": "Md. Code, General Provisions",
+   "title": "Maryland Code, General Provisions Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ggp/ggp.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 397,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ggp/ggp.pdf",
+     "sha256": "1f92ce2363b40fbe47d8286566e50580ba11875aadf2452653d74f4a1bb398cb"
+    }
+   ]
+  },
+  {
+   "slug": "health-general",
+   "short": "Md. Code, Health - General",
+   "title": "Maryland Code, Health - General Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ghg/ghg.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 2142,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ghg/ghg.pdf",
+     "sha256": "48df11ea75fb0f590c7b79392e7854c3d4efb74b59d3ef3ef532d0ba0004f2b5"
+    }
+   ]
+  },
+  {
+   "slug": "health-occupations",
+   "short": "Md. Code, Health Occupations",
+   "title": "Maryland Code, Health Occupations Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gho/gho.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1497,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gho/gho.pdf",
+     "sha256": "c27e5dd8e53773464854724d17bafc2e6ca4a7ac1a7248e77da7b1b5081ddb58"
+    }
+   ]
+  },
+  {
+   "slug": "housing-and-community-development",
+   "short": "Md. Code, Housing and Community Development",
+   "title": "Maryland Code, Housing and Community Development Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ghs/ghs.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 681,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ghs/ghs.pdf",
+     "sha256": "e9fe64cc4af9675a316f3105faf2e5784eb5cfedf920a02b5a1173dedb17f1ca"
+    }
+   ]
+  },
+  {
+   "slug": "human-services",
+   "short": "Md. Code, Human Services",
+   "title": "Maryland Code, Human Services Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ghu/ghu.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 655,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/ghu/ghu.pdf",
+     "sha256": "1f976d3d256486e4ced1df561a9c8d6dfcf8aecee5fc824caba39da199f040c6"
+    }
+   ]
+  },
+  {
+   "slug": "insurance",
+   "short": "Md. Code, Insurance",
+   "title": "Maryland Code, Insurance Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gin/gin.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1907,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gin/gin.pdf",
+     "sha256": "7382b1bd0cb5782197432bb01d6d7e1544b48a1de772c413c93646ba6f4b1146"
+    }
+   ]
+  },
+  {
+   "slug": "labor-and-employment",
+   "short": "Md. Code, Labor and Employment",
+   "title": "Maryland Code, Labor and Employment Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gle/gle.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 990,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gle/gle.pdf",
+     "sha256": "eb061f05f1c609f7e1e1dc983ae44b0f2469a0a6287dc03e8bdf563b200e2444"
+    }
+   ]
+  },
+  {
+   "slug": "land-use",
+   "short": "Md. Code, Land Use",
+   "title": "Maryland Code, Land Use Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/glu/glu.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 645,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/glu/glu.pdf",
+     "sha256": "8708606c78451a9d05e93fbf2cea8062255373045b75faa1d5dd36abf7c347f7"
+    }
+   ]
+  },
+  {
+   "slug": "local-government",
+   "short": "Md. Code, Local Government",
+   "title": "Maryland Code, Local Government Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/glg/glg.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1205,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/glg/glg.pdf",
+     "sha256": "1cf74749f5b0f5514f539672364b81cb55d5cd63be6dbafe5eca993fb2c9af80"
+    }
+   ]
+  },
+  {
+   "slug": "natural-resources",
+   "short": "Md. Code, Natural Resources",
+   "title": "Maryland Code, Natural Resources Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gnr/gnr.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1039,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gnr/gnr.pdf",
+     "sha256": "dd227fb7ef3822a473066c5fee64c79d7168423ba034098289fb761112d10586"
+    }
+   ]
+  },
+  {
+   "slug": "public-safety",
+   "short": "Md. Code, Public Safety",
+   "title": "Maryland Code, Public Safety Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gps/gps.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1005,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gps/gps.pdf",
+     "sha256": "2007ac4b0dbd118262eb00170b91b6c41f8e95858ea1feb6fcbfb0e23e9ac44e"
+    }
+   ]
+  },
+  {
+   "slug": "public-utilities",
+   "short": "Md. Code, Public Utilities",
+   "title": "Maryland Code, Public Utilities Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gpu/gpu.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 765,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gpu/gpu.pdf",
+     "sha256": "25309644980ed2cbdacaaa29722421b4aa60b281611c499095b0d23d8b8f624c"
+    }
+   ]
+  },
+  {
+   "slug": "state-finance-and-procurement",
+   "short": "Md. Code, State Finance and Procurement",
+   "title": "Maryland Code, State Finance and Procurement Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gsf/gsf.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 852,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gsf/gsf.pdf",
+     "sha256": "abdbeb9d449709809584a0dab12caeb85e94e07ffd6040ab6931ff04ee0c605b"
+    }
+   ]
+  },
+  {
+   "slug": "state-government",
+   "short": "Md. Code, State Government",
+   "title": "Maryland Code, State Government Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gsg/gsg.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1137,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gsg/gsg.pdf",
+     "sha256": "842e0e93f3e940653950ebf57367a2ce3d5e68e4d4a2e5814ef33c284d56bdf0"
+    }
+   ]
+  },
+  {
+   "slug": "state-personnel-and-pensions",
+   "short": "Md. Code, State Personnel and Pensions",
+   "title": "Maryland Code, State Personnel and Pensions Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gsp/gsp.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 839,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gsp/gsp.pdf",
+     "sha256": "8fecc87a4c9677d098868fc8e20d9df669caee47b2171f1ac49e422fea075017"
+    }
+   ]
+  },
+  {
+   "slug": "tax-general",
+   "short": "Md. Code, Tax - General",
+   "title": "Maryland Code, Tax - General Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtg/gtg.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 719,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtg/gtg.pdf",
+     "sha256": "b6b7c22997ee4d97b8e4d574cc1e9cd68e4d633395376ecd7b776ee686fc581d"
+    }
+   ]
+  },
+  {
+   "slug": "tax-property",
+   "short": "Md. Code, Tax - Property",
+   "title": "Maryland Code, Tax - Property Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtp/gtp.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 624,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtp/gtp.pdf",
+     "sha256": "0695c89a2e1bd937871cb6a9e6dcc21b17e36de12da41d75bb00792034856e8c"
+    }
+   ]
+  },
+  {
+   "slug": "transportation",
+   "short": "Md. Code, Transportation",
+   "title": "Maryland Code, Transportation Article",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtr/gtr.pdf",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1731,
+     "source_url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtr/gtr.pdf",
+     "sha256": "cea85c8d15a449f827b1707e95c85d4b1bd89ff144aa5fdc844cbbf3eb8f7c7b"
+    }
+   ]
   }
  ]
 }
