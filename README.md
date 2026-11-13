@@ -1,5 +1,10 @@
 # Maryland Constitution and Code
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Maryland law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Maryland, United States, which global-law reads at `united-states/maryland/acts/`.
 
 The Constitution and all 36 Code articles listed by the [Maryland General Assembly](https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes). Current consolidated text, checked against the official PDFs on 2026-11-03. Language: English.
